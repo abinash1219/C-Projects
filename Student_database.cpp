@@ -57,7 +57,7 @@ int main()
             while(another == 'Y' || another == 'y')
             {
                 system("cls");
-                cout << "Enter the Firt Name : ";
+                cout << "Enter the First Name : ";
                 cin >> e.first_name;
                 cout << "Enter the Last Name : ";
                 cin >> e.last_name;
